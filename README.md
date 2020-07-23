@@ -1,5 +1,5 @@
 # Coronavirus Analytical Realtime Interactive Dashboard for India
-Visit [here](http://coronavirustrackerindia.herokuapp.com/)
+
 
 ## Introduction
 
@@ -12,13 +12,6 @@ This web app is made using [Streamlit](https://www.streamlit.io/).
 Data Source : [Covid India API](https://api.covid19india.org/)
 
 
-## Demo
-
-![Demo](demo.gif)
-
-## Deployment
-
-This app is deployed using Heroku at [http://coronavirustrackerindia.herokuapp.com/](http://coronavirustrackerindia.herokuapp.com/)
 
 ## Installation
 
